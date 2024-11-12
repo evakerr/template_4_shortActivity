@@ -1,16 +1,17 @@
-# template_4_shortActivity (Replace for Course Title)
+# Making Training Material FAIR
 
-### Course Title
+### Course Title: Making Training Material FAIR
 
 ### Contributors
 
 |  |  |
 |--|--|
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Eva Lekkerkerker | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Eva Lekkerkerker |
 
 ### About this course
 
-This course .... Add a general description
+This course covers how to make different types of training material Findable, Accessible, Interoperable and Reusable in the context of digital and open science training. 
+
 
 ### Material license
 
@@ -45,9 +46,11 @@ Morning 1
 
 Find out what you should be able to achieve after each session.
 
-- you should be able too ...... [Remember]
-- you should be able too ...... [Understand]
-- you should be able too ...... [Apply]
-- you should be able too ...... [Analyse]
-- you should be able too ...... [Evaluate]
-- you should be able too ...... [Create]
+- you should be able to ...... [Remember]
+- you should be able to ...... [Understand]
+- you should be able to ...... [Apply]
+
+1) Learning Outcome: participants understand the basic concept of FAIR/OS materials, they why to pursue making training materials open, they learn concrete steps to make training materials open, and how to differentiate between different types of training materials and strategies required to make these materials FAIR. At the end of this training, participants will reach a beginner level of comprehension to demonstrate the ability to remember, understand and apply the learning objectives. Assessment form: in-course assignment to apply the learning objectives to an (existing) training material, presenting outcome at the end of the course. Other forms of assessment: survey if they understood learning objects through ex. mentimeter, microsoft forms etc. 
+2) This slide deck is suited for presentations approximately between 30 - 45 minutes
+3) The intended audience are: trainer/instructors, researchers and support staff
+4) Requirements to take the course: basic knowledge of FAIR concepts is recommended but not necessary; experience with teaching recommended but not necessary; laptop required for exercise; notebook recommended
