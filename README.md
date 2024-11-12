@@ -15,9 +15,9 @@ This course covers how to make different types of training material Findable, Ac
 
 ### Material license
 
-<img src="https://raw.githubusercontent.com/vibbits/rdm-course-2022/main/images/logos/CC-by.png" title="" alt="" width="143">
+<img src="https://raw.githubusercontent.com/vibbits/rdm-course-2022/main/images/logos/CC-by-nc-sa.png" title="" alt="" width="143">
 
-[**This work is licensed under CC BY-NC-SA 4.0**] https://creativecommons.org/licenses/by-nc-sa/4.0/
+[**CC BY-NC-SA 4.0**] https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 > **Soon suggestion on how to make the citation.**
 
